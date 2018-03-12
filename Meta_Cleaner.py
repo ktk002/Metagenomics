@@ -12,10 +12,10 @@ class Meta_Cleaner():
 	def remove_CpG_sites_window(self,input_file):
 		# Add all headers and sequences to raw_reads
 		if self.file_type == ".fastq":
-
+			pass
 		# fasta file
 		else:
-
+			pass
 	def remove_CpG_sites_HMM(self,input_file):
 		pass
 
